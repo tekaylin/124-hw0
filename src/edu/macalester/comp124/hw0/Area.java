@@ -11,7 +11,7 @@ public class Area {
      */
     public static double getSquareArea(double sideLength) {
         // TODO: replace me with the correct formula
-        return sideLength * 1.0 * 42 +13;
+        return sideLength * sideLength;
     }
 
     /**
